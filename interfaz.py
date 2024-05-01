@@ -356,7 +356,7 @@ def reporteSintatico(erroresSintaticos):
     <!DOCTYPE html>
         <html>
         <head>
-            <title>Reporte de Errores Sintaticos</title>
+            <title>Reporte de Errores Sintacticos</title>
             {css}
         </head>
         <body>

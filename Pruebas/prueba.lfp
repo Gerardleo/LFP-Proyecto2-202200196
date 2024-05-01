@@ -1,11 +1,11 @@
 
---- Holaaa
+--- Holaaa No deberia de leerlo
 
 /*
-	Pruebaaaa 999
+	Pruebaaaa 999 no debe de leerlo
 */
-981
-EliminarBD elimina = nueva EliminarBD();
+
+EliminarBD elimina = nueva EliminarBD(;
 
 CrearBD ejemplo = nueva CrearBD();
 
@@ -36,5 +36,5 @@ EliminarUnico eliminadoc = nueva EliminarUnico("NombreColeccion", "
 ");
 
 
-BuscarTodo todo = nueva BuscarTodo("NombreColeccion");
-BuscarUnico todo = nueva BuscarUnico("NombreColeccion");
+BuscarTodo todo = nueva BuscarTodo("Isaac");
+BuscarUnico todo = nueva BuscarUnico("Gerardo");
