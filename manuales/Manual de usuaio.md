@@ -11,7 +11,7 @@
 
 # Interfaz grafica (interfaz.py)
 Se presenta la interfaz principal de la lectura de archivos lfp, la cual permite abrir un archivo de texto, analizarlo y generar reportes de los tokens, errores y arbol de derivacion.
-![Menu]()
+![Menu](https://github.com/Gerardleo/LFP-Proyecto2-202200196/blob/main/img_reportes/Interfaz.png)
 
 
 Se presentan las siguientes opciones de archivo:
@@ -22,23 +22,23 @@ Se presentan las siguientes opciones de archivo:
 - limpiar: Permite limpiar toda la informacion que se encuentra en el cuadro de texto y en la aplicacion
 - Salir: Permite cerrar la aplicacion
 
-![abrir]()
+![abrir](https://github.com/Gerardleo/LFP-Proyecto2-202200196/blob/main/img_reportes/abrir.png)
 
 La funcion Abrir se encarga de abrir el archivo y mostrarlo en el cuadro de texto
 
-![guardar]()
+![guardar](https://github.com/Gerardleo/LFP-Proyecto2-202200196/blob/main/img_reportes/guardar.png)
 
 La funcion Guardar se encarga de guardar el archivo que se esta utilizando
 
-![analizar]()
+![analizar](https://github.com/Gerardleo/LFP-Proyecto2-202200196/blob/main/img_reportes/analizar.png)
 
 La funcion Analizar archivo se encarga de analizar el archivo que se esta utilizando y mostrar los resultos que se encuentren
-![salir]()
+![salir](https://github.com/Gerardleo/LFP-Proyecto2-202200196/blob/main/img_reportes/salir%20(2).png)
 
 
 La funcion Salir se encarga de cerrar la aplicacion
 
-![limpiar]()
+![limpiar](https://github.com/Gerardleo/LFP-Proyecto2-202200196/blob/main/img_reportes/limpiar.png)
 La funcion Limpiar se encarga de limpiar toda la informacion que se encuentra en la aplicacion
 
 Se presentan las siguientes opciones de Reportes:
@@ -47,16 +47,16 @@ Se presentan las siguientes opciones de Reportes:
 - Reporte de Errores Lexicos: Permite generar el reporte de errores
 - Reporte de Errores Sintacticos: Permite generar el reporte de errores
 
-![reporteTokens]()
+![reporteTokens](https://github.com/Gerardleo/LFP-Proyecto2-202200196/blob/main/img_reportes/tokens.png)
 
 La funcion Reporte de Tokens se encarga de generar el reporte de tokens en formato html
 
 
-![reporteLexicos]()
+![reporteLexicos](https://github.com/Gerardleo/LFP-Proyecto2-202200196/blob/main/img_reportes/lexico.png)
 
 La funcion Reporte de Errores Lexicos se encarga de generar el reporte de errores en formato html
 
-![reporteSintatico]()
+![reporteSintatico](https://github.com/Gerardleo/LFP-Proyecto2-202200196/blob/main/img_reportes/sintaticos.png)
 
 La funcion Reporte de Errores Sintaxticos se encarga de generar el reporte de errores en formato html
 

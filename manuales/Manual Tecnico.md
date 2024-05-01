@@ -15,9 +15,9 @@ La funcion lexico se encarga de analizar el archivo que se esta utilizando y mos
 # Declaraciones Iniciales
 En esta sección, se crea una lista_tokens para almacenar los tokens generados durante el análisis léxico, y una lista_errores para almacenar los errores léxicos. También se definen algunas variables y expresiones regulares utilizadas en el análisis.
 
-![funcionLexico1]()
-![funcionLexico2]()
-![funcionLexico3]()
+![funcionLexico1](https://github.com/Gerardleo/LFP-Proyecto2-202200196/blob/main/img_reportes/LEXICO%201.png)
+![funcionLexico2](https://github.com/Gerardleo/LFP-Proyecto2-202200196/blob/main/img_reportes/LEXICO%202.png)
+![funcionLexico3](https://github.com/Gerardleo/LFP-Proyecto2-202200196/blob/main/img_reportes/LEXICO%203.png)
 
 # Funciones de Análisis
 
@@ -29,20 +29,20 @@ El código incluye funciones para el análisis léxico de la entrada. armar_lexe
 Estas funciones se encargan de obtener y limpiar los errores léxicos generados durante el análisis. retornarErroresLexico devuelve los errores léxicos en objeto, y limpiarErroresLexicos los borra.
 
 # Funciones Adicionales 
-![limpiar]()
+![limpiar](https://github.com/Gerardleo/LFP-Proyecto2-202200196/blob/main/img_reportes/limpiar%20tecnico.png)
 La función limpiarCampos se utiliza para reiniciar algunas variables y estructuras de datos específicas utilizadas en el análisis.
 
 
 # Analizador Sintactico (sintactico.py)
 Se presenta el analizador sintactico de la lectura de archivos bizdata
 
-![sintactico1]()
-![sintactico2]()
-![sintactico3]()
+![sintactico1](https://github.com/Gerardleo/LFP-Proyecto2-202200196/blob/main/img_reportes/Sintatico%201.png)
+![sintactico2](https://github.com/Gerardleo/LFP-Proyecto2-202200196/blob/main/img_reportes/Sintatico%202.png)
+![sintactico3](https://github.com/Gerardleo/LFP-Proyecto2-202200196/blob/main/img_reportes/Sintatico%203.png)
 
 La funcion sintactico se encarga de analizar el archivo que se esta utilizando y mostrar los resultos que se encuentren
 
-![funcion]()
+![funcion](https://github.com/Gerardleo/LFP-Proyecto2-202200196/blob/main/img_reportes/Funcion.png)
 
 # Métodos de Análisis de Instrucciones
  El código proporciona métodos para analizar instrucciones específicas, como la de CrearDB, EliminarDB, CrerColeccionDB, EliminarColeccionDB, InsertarUnico, ActualizarUnico, EliminarUnico, BuscarUnico y BuscarTodo.
@@ -87,12 +87,7 @@ INICIO ->  LISTA_INSTRUCCIONES
     BuscarTodo -> PALABRARESERVADA NOMBRE PUNTO NOMBRE PUNTO NOMBRE PUNTO NOMBRE IGUAL PALABRARESERVADA CORCHETEIZQUIERDO NOMBRECOLEECCION CORCHETEDERECHO PUNTOYCOMA
 ```
 
-# Arbol de Derivacion
-El árbol de derivación se utiliza para mostrar la estructura jerárquica de las instrucciones en la entrada. El código proporciona métodos para construir y mostrar el árbol de derivación.
-
-![arbolDerivacion]()
-
 # Automata Finito Determinista
 El autómata finito determinista (DFA) se utiliza para validar la entrada de acuerdo con la gramática definida. El código proporciona métodos para construir y mostrar el DFA.
 
-![automata]()
+![automata](https://github.com/Gerardleo/LFP-Proyecto2-202200196/blob/main/img_reportes/Automata.png)
